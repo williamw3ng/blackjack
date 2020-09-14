@@ -1,0 +1,1 @@
+average reward: -0.264, success rate: 0.252, fail rate: 0.524, tie rate: 0.224, average step: 1.281, blackjack rate: 0.125

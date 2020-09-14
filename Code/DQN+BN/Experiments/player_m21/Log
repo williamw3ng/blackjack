@@ -1,0 +1,231 @@
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+From /Users/ykx/Desktop/Psych186B/Project/Code5/qnet.py:52: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+[1000] epsilon: 0.913, average reward: -0.314, average loss: 1.829, average b_loss: 0.142 success rate: 0.305, fail rate: 0.569, tie rate: 0.126, average step: 0.636, blackjack rate: 0.077
+[1000] epsilon: 0.913, average reward: -0.346, average loss: 1.764, average b_loss: 0.133 success rate: 0.289, fail rate: 0.590, tie rate: 0.121, average step: 0.691, blackjack rate: 0.095
+[2000] epsilon: 0.878, average reward: -0.329, average loss: 1.483, average b_loss: 0.127 success rate: 0.289, fail rate: 0.577, tie rate: 0.134, average step: 0.712, blackjack rate: 0.083
+[3000] epsilon: 0.844, average reward: -0.344, average loss: 1.503, average b_loss: 0.127 success rate: 0.293, fail rate: 0.580, tie rate: 0.127, average step: 0.720, blackjack rate: 0.079
+[4000] epsilon: 0.811, average reward: -0.297, average loss: 1.483, average b_loss: 0.126 success rate: 0.296, fail rate: 0.573, tie rate: 0.132, average step: 0.711, blackjack rate: 0.080
+[5000] epsilon: 0.780, average reward: -0.374, average loss: 1.471, average b_loss: 0.124 success rate: 0.291, fail rate: 0.577, tie rate: 0.132, average step: 0.716, blackjack rate: 0.079
+Experiments/player_m20/CKPT/checkpoint-5000 is not in all_model_checkpoint_paths. Manually adding it.
+[6000] epsilon: 0.749, average reward: -0.258, average loss: 1.506, average b_loss: 0.123 success rate: 0.298, fail rate: 0.573, tie rate: 0.129, average step: 0.709, blackjack rate: 0.080
+[7000] epsilon: 0.720, average reward: -0.248, average loss: 1.491, average b_loss: 0.122 success rate: 0.303, fail rate: 0.570, tie rate: 0.127, average step: 0.706, blackjack rate: 0.084
+[8000] epsilon: 0.693, average reward: -0.236, average loss: 1.450, average b_loss: 0.121 success rate: 0.306, fail rate: 0.566, tie rate: 0.128, average step: 0.711, blackjack rate: 0.085
+[9000] epsilon: 0.666, average reward: -0.247, average loss: 1.450, average b_loss: 0.121 success rate: 0.308, fail rate: 0.564, tie rate: 0.128, average step: 0.719, blackjack rate: 0.086
+[10000] epsilon: 0.640, average reward: -0.246, average loss: 1.446, average b_loss: 0.121 success rate: 0.308, fail rate: 0.560, tie rate: 0.131, average step: 0.725, blackjack rate: 0.088
+Experiments/player_m20/CKPT/checkpoint-10000 is not in all_model_checkpoint_paths. Manually adding it.
+[11000] epsilon: 0.615, average reward: -0.259, average loss: 1.474, average b_loss: 0.120 success rate: 0.312, fail rate: 0.556, tie rate: 0.132, average step: 0.718, blackjack rate: 0.087
+[12000] epsilon: 0.592, average reward: -0.272, average loss: 1.452, average b_loss: 0.120 success rate: 0.316, fail rate: 0.555, tie rate: 0.129, average step: 0.720, blackjack rate: 0.088
+[13000] epsilon: 0.569, average reward: -0.243, average loss: 1.414, average b_loss: 0.120 success rate: 0.319, fail rate: 0.549, tie rate: 0.132, average step: 0.721, blackjack rate: 0.090
+[14000] epsilon: 0.547, average reward: -0.208, average loss: 1.492, average b_loss: 0.119 success rate: 0.321, fail rate: 0.546, tie rate: 0.133, average step: 0.725, blackjack rate: 0.093
+[15000] epsilon: 0.526, average reward: -0.200, average loss: 1.424, average b_loss: 0.119 success rate: 0.327, fail rate: 0.539, tie rate: 0.134, average step: 0.734, blackjack rate: 0.096
+Experiments/player_m20/CKPT/checkpoint-15000 is not in all_model_checkpoint_paths. Manually adding it.
+[16000] epsilon: 0.506, average reward: -0.157, average loss: 1.467, average b_loss: 0.119 success rate: 0.329, fail rate: 0.533, tie rate: 0.138, average step: 0.737, blackjack rate: 0.097
+[17000] epsilon: 0.486, average reward: -0.228, average loss: 1.372, average b_loss: 0.118 success rate: 0.330, fail rate: 0.530, tie rate: 0.139, average step: 0.740, blackjack rate: 0.096
+[18000] epsilon: 0.468, average reward: -0.175, average loss: 1.459, average b_loss: 0.118 success rate: 0.332, fail rate: 0.527, tie rate: 0.141, average step: 0.744, blackjack rate: 0.097
+[19000] epsilon: 0.450, average reward: -0.135, average loss: 1.393, average b_loss: 0.118 success rate: 0.336, fail rate: 0.522, tie rate: 0.142, average step: 0.746, blackjack rate: 0.098
+[20000] epsilon: 0.432, average reward: -0.176, average loss: 1.437, average b_loss: 0.117 success rate: 0.338, fail rate: 0.517, tie rate: 0.145, average step: 0.754, blackjack rate: 0.097
+Experiments/player_m20/CKPT/checkpoint-20000 is not in all_model_checkpoint_paths. Manually adding it.
+[21000] epsilon: 0.416, average reward: -0.114, average loss: 1.507, average b_loss: 0.117 success rate: 0.343, fail rate: 0.512, tie rate: 0.145, average step: 0.761, blackjack rate: 0.101
+[22000] epsilon: 0.400, average reward: -0.186, average loss: 1.400, average b_loss: 0.117 success rate: 0.344, fail rate: 0.506, tie rate: 0.150, average step: 0.763, blackjack rate: 0.102
+[23000] epsilon: 0.385, average reward: -0.158, average loss: 1.436, average b_loss: 0.117 success rate: 0.348, fail rate: 0.504, tie rate: 0.149, average step: 0.767, blackjack rate: 0.104
+[24000] epsilon: 0.370, average reward: -0.144, average loss: 1.366, average b_loss: 0.116 success rate: 0.351, fail rate: 0.502, tie rate: 0.147, average step: 0.771, blackjack rate: 0.105
+[25000] epsilon: 0.356, average reward: -0.111, average loss: 1.340, average b_loss: 0.116 success rate: 0.355, fail rate: 0.496, tie rate: 0.148, average step: 0.774, blackjack rate: 0.106
+Experiments/player_m20/CKPT/checkpoint-25000 is not in all_model_checkpoint_paths. Manually adding it.
+[26000] epsilon: 0.342, average reward: -0.070, average loss: 1.353, average b_loss: 0.116 success rate: 0.359, fail rate: 0.493, tie rate: 0.148, average step: 0.774, blackjack rate: 0.107
+[27000] epsilon: 0.329, average reward: -0.168, average loss: 1.348, average b_loss: 0.115 success rate: 0.359, fail rate: 0.489, tie rate: 0.151, average step: 0.780, blackjack rate: 0.107
+[28000] epsilon: 0.317, average reward: -0.107, average loss: 1.330, average b_loss: 0.115 success rate: 0.364, fail rate: 0.486, tie rate: 0.151, average step: 0.782, blackjack rate: 0.107
+[29000] epsilon: 0.305, average reward: -0.125, average loss: 1.272, average b_loss: 0.115 success rate: 0.364, fail rate: 0.485, tie rate: 0.152, average step: 0.784, blackjack rate: 0.106
+[30000] epsilon: 0.293, average reward: -0.095, average loss: 1.328, average b_loss: 0.114 success rate: 0.369, fail rate: 0.483, tie rate: 0.148, average step: 0.784, blackjack rate: 0.107
+Experiments/player_m20/CKPT/checkpoint-30000 is not in all_model_checkpoint_paths. Manually adding it.
+[31000] epsilon: 0.282, average reward: -0.112, average loss: 1.313, average b_loss: 0.114 success rate: 0.367, fail rate: 0.482, tie rate: 0.152, average step: 0.789, blackjack rate: 0.107
+[32000] epsilon: 0.271, average reward: -0.163, average loss: 1.346, average b_loss: 0.114 success rate: 0.367, fail rate: 0.480, tie rate: 0.153, average step: 0.791, blackjack rate: 0.108
+[33000] epsilon: 0.261, average reward: -0.091, average loss: 1.296, average b_loss: 0.114 success rate: 0.368, fail rate: 0.475, tie rate: 0.156, average step: 0.792, blackjack rate: 0.107
+[34000] epsilon: 0.251, average reward: -0.077, average loss: 1.306, average b_loss: 0.114 success rate: 0.370, fail rate: 0.471, tie rate: 0.158, average step: 0.792, blackjack rate: 0.107
+[35000] epsilon: 0.242, average reward: -0.069, average loss: 1.410, average b_loss: 0.113 success rate: 0.372, fail rate: 0.470, tie rate: 0.158, average step: 0.796, blackjack rate: 0.108
+Experiments/player_m20/CKPT/checkpoint-35000 is not in all_model_checkpoint_paths. Manually adding it.
+[36000] epsilon: 0.233, average reward: -0.027, average loss: 1.295, average b_loss: 0.113 success rate: 0.374, fail rate: 0.468, tie rate: 0.158, average step: 0.796, blackjack rate: 0.109
+[37000] epsilon: 0.224, average reward: -0.113, average loss: 1.218, average b_loss: 0.113 success rate: 0.379, fail rate: 0.468, tie rate: 0.154, average step: 0.794, blackjack rate: 0.108
+[38000] epsilon: 0.216, average reward: -0.064, average loss: 1.303, average b_loss: 0.113 success rate: 0.380, fail rate: 0.465, tie rate: 0.156, average step: 0.795, blackjack rate: 0.107
+[39000] epsilon: 0.208, average reward: -0.095, average loss: 1.360, average b_loss: 0.112 success rate: 0.379, fail rate: 0.463, tie rate: 0.158, average step: 0.800, blackjack rate: 0.110
+[40000] epsilon: 0.200, average reward: -0.073, average loss: 1.300, average b_loss: 0.112 success rate: 0.380, fail rate: 0.462, tie rate: 0.158, average step: 0.799, blackjack rate: 0.111
+Experiments/player_m20/CKPT/checkpoint-40000 is not in all_model_checkpoint_paths. Manually adding it.
+[41000] epsilon: 0.192, average reward: -0.084, average loss: 1.151, average b_loss: 0.112 success rate: 0.382, fail rate: 0.461, tie rate: 0.157, average step: 0.802, blackjack rate: 0.110
+[42000] epsilon: 0.185, average reward: -0.122, average loss: 1.232, average b_loss: 0.112 success rate: 0.386, fail rate: 0.461, tie rate: 0.153, average step: 0.801, blackjack rate: 0.109
+[43000] epsilon: 0.178, average reward: -0.084, average loss: 1.345, average b_loss: 0.111 success rate: 0.390, fail rate: 0.462, tie rate: 0.148, average step: 0.799, blackjack rate: 0.108
+[44000] epsilon: 0.172, average reward: -0.045, average loss: 1.301, average b_loss: 0.111 success rate: 0.389, fail rate: 0.460, tie rate: 0.150, average step: 0.801, blackjack rate: 0.111
+[45000] epsilon: 0.165, average reward: -0.033, average loss: 1.243, average b_loss: 0.111 success rate: 0.390, fail rate: 0.459, tie rate: 0.151, average step: 0.803, blackjack rate: 0.112
+Experiments/player_m20/CKPT/checkpoint-45000 is not in all_model_checkpoint_paths. Manually adding it.
+[46000] epsilon: 0.159, average reward: 0.008, average loss: 1.252, average b_loss: 0.110 success rate: 0.392, fail rate: 0.457, tie rate: 0.151, average step: 0.803, blackjack rate: 0.111
+[47000] epsilon: 0.153, average reward: 0.001, average loss: 1.188, average b_loss: 0.110 success rate: 0.394, fail rate: 0.450, tie rate: 0.156, average step: 0.805, blackjack rate: 0.115
+[48000] epsilon: 0.148, average reward: -0.082, average loss: 1.196, average b_loss: 0.110 success rate: 0.393, fail rate: 0.452, tie rate: 0.155, average step: 0.804, blackjack rate: 0.115
+[49000] epsilon: 0.142, average reward: -0.046, average loss: 1.278, average b_loss: 0.110 success rate: 0.397, fail rate: 0.451, tie rate: 0.152, average step: 0.806, blackjack rate: 0.116
+[50000] epsilon: 0.950, average reward: -0.129, average loss: 1.363, average b_loss: 0.109 success rate: 0.391, fail rate: 0.454, tie rate: 0.155, average step: 0.812, blackjack rate: 0.119
+Experiments/player_m20/CKPT/checkpoint-50000 is not in all_model_checkpoint_paths. Manually adding it.
+[51000] epsilon: 0.878, average reward: -0.243, average loss: 1.299, average b_loss: 0.109 success rate: 0.387, fail rate: 0.463, tie rate: 0.151, average step: 0.809, blackjack rate: 0.117
+[52000] epsilon: 0.811, average reward: -0.235, average loss: 1.268, average b_loss: 0.109 success rate: 0.382, fail rate: 0.469, tie rate: 0.149, average step: 0.807, blackjack rate: 0.118
+[53000] epsilon: 0.749, average reward: -0.296, average loss: 1.360, average b_loss: 0.109 success rate: 0.371, fail rate: 0.478, tie rate: 0.151, average step: 0.806, blackjack rate: 0.117
+[54000] epsilon: 0.693, average reward: -0.204, average loss: 1.246, average b_loss: 0.109 success rate: 0.366, fail rate: 0.487, tie rate: 0.147, average step: 0.805, blackjack rate: 0.113
+[55000] epsilon: 0.640, average reward: -0.208, average loss: 1.312, average b_loss: 0.108 success rate: 0.360, fail rate: 0.494, tie rate: 0.147, average step: 0.805, blackjack rate: 0.109
+Experiments/player_m20/CKPT/checkpoint-55000 is not in all_model_checkpoint_paths. Manually adding it.
+[56000] epsilon: 0.592, average reward: -0.214, average loss: 1.441, average b_loss: 0.108 success rate: 0.351, fail rate: 0.504, tie rate: 0.145, average step: 0.804, blackjack rate: 0.107
+[57000] epsilon: 0.547, average reward: -0.203, average loss: 1.334, average b_loss: 0.108 success rate: 0.344, fail rate: 0.514, tie rate: 0.141, average step: 0.803, blackjack rate: 0.104
+[58000] epsilon: 0.506, average reward: -0.180, average loss: 1.314, average b_loss: 0.108 success rate: 0.340, fail rate: 0.519, tie rate: 0.141, average step: 0.802, blackjack rate: 0.103
+[59000] epsilon: 0.468, average reward: -0.073, average loss: 1.348, average b_loss: 0.108 success rate: 0.341, fail rate: 0.520, tie rate: 0.139, average step: 0.801, blackjack rate: 0.101
+[60000] epsilon: 0.432, average reward: -0.164, average loss: 1.422, average b_loss: 0.107 success rate: 0.343, fail rate: 0.521, tie rate: 0.136, average step: 0.802, blackjack rate: 0.097
+Experiments/player_m20/CKPT/checkpoint-60000 is not in all_model_checkpoint_paths. Manually adding it.
+[61000] epsilon: 0.400, average reward: -0.223, average loss: 1.244, average b_loss: 0.107 success rate: 0.343, fail rate: 0.519, tie rate: 0.139, average step: 0.803, blackjack rate: 0.096
+[62000] epsilon: 0.370, average reward: -0.165, average loss: 1.344, average b_loss: 0.107 success rate: 0.343, fail rate: 0.514, tie rate: 0.143, average step: 0.803, blackjack rate: 0.098
+[63000] epsilon: 0.342, average reward: -0.085, average loss: 1.327, average b_loss: 0.107 success rate: 0.348, fail rate: 0.503, tie rate: 0.148, average step: 0.806, blackjack rate: 0.101
+[64000] epsilon: 0.317, average reward: -0.171, average loss: 1.260, average b_loss: 0.107 success rate: 0.350, fail rate: 0.500, tie rate: 0.149, average step: 0.807, blackjack rate: 0.101
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+From /Users/ykx/Desktop/Psych186B/Project/Code5/qnet.py:52: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+[65000] epsilon: 0.293, average reward: -0.089, average loss: 1.335, average b_loss: 0.106 success rate: 0.354, fail rate: 0.495, tie rate: 0.150, average step: 0.808, blackjack rate: 0.103
+Experiments/player_m20/CKPT/checkpoint-65000 is not in all_model_checkpoint_paths. Manually adding it.
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+Restoring parameters from Experiments/player_m20/CKPT/checkpoint-65000
+[66000] epsilon: 0.271, average reward: -0.148, average loss: 1.308, average b_loss: 0.106 success rate: 0.356, fail rate: 0.490, tie rate: 0.154, average step: 0.807, blackjack rate: 0.103
+[67000] epsilon: 0.251, average reward: -0.131, average loss: 1.328, average b_loss: 0.106 success rate: 0.358, fail rate: 0.486, tie rate: 0.156, average step: 0.807, blackjack rate: 0.104
+[68000] epsilon: 0.233, average reward: -0.102, average loss: 1.251, average b_loss: 0.106 success rate: 0.360, fail rate: 0.483, tie rate: 0.157, average step: 0.808, blackjack rate: 0.105
+[69000] epsilon: 0.216, average reward: -0.080, average loss: 1.240, average b_loss: 0.106 success rate: 0.358, fail rate: 0.481, tie rate: 0.161, average step: 0.810, blackjack rate: 0.104
+[70000] epsilon: 0.200, average reward: -0.014, average loss: 1.268, average b_loss: 0.105 success rate: 0.365, fail rate: 0.475, tie rate: 0.160, average step: 0.809, blackjack rate: 0.107
+Experiments/player_m20/CKPT/checkpoint-70000 is not in all_model_checkpoint_paths. Manually adding it.
+[71000] epsilon: 0.185, average reward: -0.115, average loss: 1.321, average b_loss: 0.105 success rate: 0.369, fail rate: 0.470, tie rate: 0.162, average step: 0.810, blackjack rate: 0.109
+[72000] epsilon: 0.172, average reward: -0.185, average loss: 1.331, average b_loss: 0.105 success rate: 0.367, fail rate: 0.469, tie rate: 0.163, average step: 0.812, blackjack rate: 0.108
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+From /Users/ykx/Desktop/Psych186B/Project/Code5/qnet.py:52: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+[73000] epsilon: 0.159, average reward: -0.140, average loss: 1.349, average b_loss: 0.105 success rate: 0.368, fail rate: 0.473, tie rate: 0.159, average step: 0.814, blackjack rate: 0.109
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+Restoring parameters from Experiments/player_m20/CKPT/checkpoint-70000
+[74000] epsilon: 0.148, average reward: -0.138, average loss: 1.271, average b_loss: 0.105 success rate: 0.368, fail rate: 0.470, tie rate: 0.162, average step: 0.816, blackjack rate: 0.110
+[75000] epsilon: 0.137, average reward: -0.070, average loss: 1.238, average b_loss: 0.104 success rate: 0.368, fail rate: 0.469, tie rate: 0.163, average step: 0.818, blackjack rate: 0.108
+Experiments/player_m20/CKPT/checkpoint-75000 is not in all_model_checkpoint_paths. Manually adding it.
+[76000] epsilon: 0.127, average reward: -0.037, average loss: 1.321, average b_loss: 0.104 success rate: 0.374, fail rate: 0.466, tie rate: 0.160, average step: 0.817, blackjack rate: 0.110
+[77000] epsilon: 0.118, average reward: -0.079, average loss: 1.252, average b_loss: 0.104 success rate: 0.373, fail rate: 0.464, tie rate: 0.163, average step: 0.819, blackjack rate: 0.112
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+From /Users/ykx/Desktop/Psych186B/Project/Code5/qnet.py:52: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+Restoring parameters from Experiments/player_m20/CKPT/checkpoint-75000
+[78000] epsilon: 0.110, average reward: -0.050, average loss: 1.279, average b_loss: 0.104 success rate: 0.376, fail rate: 0.461, tie rate: 0.163, average step: 0.819, blackjack rate: 0.113
+[79000] epsilon: 0.102, average reward: -0.008, average loss: 1.232, average b_loss: 0.104 success rate: 0.378, fail rate: 0.458, tie rate: 0.164, average step: 0.819, blackjack rate: 0.114
+[1000] epsilon: 0.913, average reward: -0.291, average loss: nan, average b_loss: nan success rate: 0.301, fail rate: 0.564, tie rate: 0.135, average step: 0.666, blackjack rate: 0.084
+[80000] epsilon: 0.095, average reward: -0.038, average loss: 1.245, average b_loss: 0.103 success rate: 0.376, fail rate: 0.458, tie rate: 0.167, average step: 0.821, blackjack rate: 0.113
+Experiments/player_m20/CKPT/checkpoint-80000 is not in all_model_checkpoint_paths. Manually adding it.
+[81000] epsilon: 0.089, average reward: -0.149, average loss: 1.212, average b_loss: 0.103 success rate: 0.375, fail rate: 0.459, tie rate: 0.166, average step: 0.821, blackjack rate: 0.111
+[82000] epsilon: 0.083, average reward: -0.116, average loss: 1.318, average b_loss: 0.103 success rate: 0.378, fail rate: 0.457, tie rate: 0.165, average step: 0.822, blackjack rate: 0.112
+[83000] epsilon: 0.077, average reward: -0.112, average loss: 1.224, average b_loss: 0.103 success rate: 0.378, fail rate: 0.456, tie rate: 0.166, average step: 0.826, blackjack rate: 0.111
+[84000] epsilon: 0.072, average reward: -0.144, average loss: 1.220, average b_loss: 0.102 success rate: 0.382, fail rate: 0.458, tie rate: 0.161, average step: 0.824, blackjack rate: 0.110
+[85000] epsilon: 0.067, average reward: -0.159, average loss: 1.187, average b_loss: 0.102 success rate: 0.379, fail rate: 0.462, tie rate: 0.158, average step: 0.824, blackjack rate: 0.110
+Experiments/player_m20/CKPT/checkpoint-85000 is not in all_model_checkpoint_paths. Manually adding it.
+[86000] epsilon: 0.063, average reward: -0.035, average loss: 1.150, average b_loss: 0.102 success rate: 0.378, fail rate: 0.462, tie rate: 0.161, average step: 0.825, blackjack rate: 0.111
+[87000] epsilon: 0.059, average reward: -0.105, average loss: 1.210, average b_loss: 0.102 success rate: 0.376, fail rate: 0.464, tie rate: 0.161, average step: 0.828, blackjack rate: 0.112
+[88000] epsilon: 0.055, average reward: -0.070, average loss: 1.218, average b_loss: 0.102 success rate: 0.372, fail rate: 0.464, tie rate: 0.164, average step: 0.830, blackjack rate: 0.113
+[89000] epsilon: 0.052, average reward: -0.050, average loss: 1.146, average b_loss: 0.101 success rate: 0.371, fail rate: 0.466, tie rate: 0.164, average step: 0.832, blackjack rate: 0.115
+[90000] epsilon: 0.048, average reward: -0.081, average loss: 1.138, average b_loss: 0.101 success rate: 0.373, fail rate: 0.468, tie rate: 0.159, average step: 0.830, blackjack rate: 0.111
+Experiments/player_m20/CKPT/checkpoint-90000 is not in all_model_checkpoint_paths. Manually adding it.
+[91000] epsilon: 0.045, average reward: -0.095, average loss: 1.275, average b_loss: 0.101 success rate: 0.373, fail rate: 0.468, tie rate: 0.159, average step: 0.831, blackjack rate: 0.115
+[92000] epsilon: 0.043, average reward: -0.047, average loss: 1.253, average b_loss: 0.101 success rate: 0.373, fail rate: 0.463, tie rate: 0.164, average step: 0.833, blackjack rate: 0.116
+[93000] epsilon: 0.040, average reward: -0.066, average loss: 1.278, average b_loss: 0.101 success rate: 0.378, fail rate: 0.463, tie rate: 0.160, average step: 0.833, blackjack rate: 0.115
+[94000] epsilon: 0.038, average reward: -0.170, average loss: 1.305, average b_loss: 0.100 success rate: 0.369, fail rate: 0.464, tie rate: 0.167, average step: 0.837, blackjack rate: 0.120
+[95000] epsilon: 0.036, average reward: -0.036, average loss: 1.329, average b_loss: 0.100 success rate: 0.372, fail rate: 0.458, tie rate: 0.170, average step: 0.838, blackjack rate: 0.120
+Experiments/player_m20/CKPT/checkpoint-95000 is not in all_model_checkpoint_paths. Manually adding it.
+[96000] epsilon: 0.034, average reward: -0.052, average loss: 1.172, average b_loss: 0.100 success rate: 0.374, fail rate: 0.460, tie rate: 0.166, average step: 0.835, blackjack rate: 0.119
+[97000] epsilon: 0.032, average reward: -0.105, average loss: 1.293, average b_loss: 0.100 success rate: 0.378, fail rate: 0.460, tie rate: 0.162, average step: 0.835, blackjack rate: 0.117
+[98000] epsilon: 0.030, average reward: -0.179, average loss: 1.343, average b_loss: 0.100 success rate: 0.373, fail rate: 0.466, tie rate: 0.161, average step: 0.839, blackjack rate: 0.117
+[99000] epsilon: 0.029, average reward: -0.133, average loss: 1.229, average b_loss: 0.099 success rate: 0.371, fail rate: 0.469, tie rate: 0.160, average step: 0.839, blackjack rate: 0.116
+[100000] epsilon: 0.950, average reward: -0.161, average loss: 1.287, average b_loss: 0.099 success rate: 0.359, fail rate: 0.470, tie rate: 0.171, average step: 0.843, blackjack rate: 0.123
+Experiments/player_m20/CKPT/checkpoint-100000 is not in all_model_checkpoint_paths. Manually adding it.
+Experiments/player_m20/CKPT/checkpoint-100000 is not in all_model_checkpoint_paths. Manually adding it.
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+From /Users/ykx/Desktop/Psych186B/Project/Code5/qnet.py:52: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+Restoring parameters from Experiments/player_m20/CKPT/checkpoint-100000
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+From /Users/ykx/Desktop/Psych186B/Project/Code5/qnet.py:52: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+Restoring parameters from Experiments/player_m20/CKPT/checkpoint-100000
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+From /Users/ykx/Desktop/Psych186B/Project/Code5/qnet.py:52: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+From /anaconda3/envs/ykx/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+Restoring parameters from Experiments/player_m20/CKPT/checkpoint-100000
+Restoring parameters from Experiments/player_m20/CKPT/checkpoint-100000
+[1000] epsilon: 0.895, average reward: -0.283, average loss: 1.435, average b_loss: 0.090 success rate: 0.317, fail rate: 0.570, tie rate: 0.113, average step: 0.676, blackjack rate: 0.081
+[2000] epsilon: 0.844, average reward: -0.289, average loss: 1.483, average b_loss: 0.086 success rate: 0.319, fail rate: 0.558, tie rate: 0.123, average step: 0.675, blackjack rate: 0.082
+[3000] epsilon: 0.795, average reward: -0.198, average loss: 1.551, average b_loss: 0.084 success rate: 0.324, fail rate: 0.545, tie rate: 0.131, average step: 0.690, blackjack rate: 0.085
+[4000] epsilon: 0.749, average reward: -0.273, average loss: 1.360, average b_loss: 0.083 success rate: 0.321, fail rate: 0.546, tie rate: 0.133, average step: 0.711, blackjack rate: 0.086
+[5000] epsilon: 0.706, average reward: -0.176, average loss: 1.367, average b_loss: 0.084 success rate: 0.330, fail rate: 0.539, tie rate: 0.131, average step: 0.717, blackjack rate: 0.088
+Experiments/player_m20/CKPT/checkpoint-5000 is not in all_model_checkpoint_paths. Manually adding it.
+[6000] epsilon: 0.666, average reward: -0.208, average loss: 1.409, average b_loss: 0.083 success rate: 0.331, fail rate: 0.536, tie rate: 0.133, average step: 0.728, blackjack rate: 0.087
+[7000] epsilon: 0.628, average reward: -0.227, average loss: 1.384, average b_loss: 0.083 success rate: 0.330, fail rate: 0.534, tie rate: 0.136, average step: 0.732, blackjack rate: 0.087
+[8000] epsilon: 0.592, average reward: -0.178, average loss: 1.447, average b_loss: 0.082 success rate: 0.334, fail rate: 0.530, tie rate: 0.136, average step: 0.732, blackjack rate: 0.087
+Restoring parameters from Experiments/player_m20/CKPT/checkpoint-5000
+[1000] epsilon: 0.895, average reward: -0.282, average loss: 1.424, average b_loss: 0.079 success rate: 0.316, fail rate: 0.554, tie rate: 0.130, average step: 0.673, blackjack rate: 0.079
+[9000] epsilon: 0.558, average reward: -0.273, average loss: 1.359, average b_loss: 0.082 success rate: 0.332, fail rate: 0.532, tie rate: 0.136, average step: 0.742, blackjack rate: 0.087
+[2000] epsilon: 0.844, average reward: -0.287, average loss: 1.458, average b_loss: 0.080 success rate: 0.308, fail rate: 0.559, tie rate: 0.132, average step: 0.691, blackjack rate: 0.088
+[10000] epsilon: 0.526, average reward: -0.232, average loss: 1.318, average b_loss: 0.082 success rate: 0.332, fail rate: 0.532, tie rate: 0.137, average step: 0.737, blackjack rate: 0.087
+Experiments/player_m20/CKPT/checkpoint-10000 is not in all_model_checkpoint_paths. Manually adding it.
+[3000] epsilon: 0.795, average reward: -0.214, average loss: 1.429, average b_loss: 0.078 success rate: 0.316, fail rate: 0.548, tie rate: 0.136, average step: 0.710, blackjack rate: 0.089
+[4000] epsilon: 0.749, average reward: -0.275, average loss: 1.466, average b_loss: 0.078 success rate: 0.312, fail rate: 0.548, tie rate: 0.141, average step: 0.724, blackjack rate: 0.089
+[5000] epsilon: 0.706, average reward: -0.258, average loss: 1.396, average b_loss: 0.078 success rate: 0.314, fail rate: 0.545, tie rate: 0.142, average step: 0.730, blackjack rate: 0.089
+Experiments/player_m20/CKPT/checkpoint-5000 is not in all_model_checkpoint_paths. Manually adding it.
+[1000] epsilon: 0.895, average reward: -0.362, average loss: 1.889, average b_loss: 0.154 success rate: 0.282, fail rate: 0.596, tie rate: 0.122, average step: 0.674, blackjack rate: 0.075

@@ -1,0 +1,122 @@
+[1000] epsilon: 0.895, average reward: -0.239, average loss: 1.640, average b_loss: 0.145 success rate: 0.323, fail rate: 0.549, tie rate: 0.128, average step: 0.656, blackjack rate: 0.091
+[2000] epsilon: 0.844, average reward: -0.324, average loss: 1.648, average b_loss: 0.137 success rate: 0.310, fail rate: 0.561, tie rate: 0.129, average step: 0.694, blackjack rate: 0.091
+[3000] epsilon: 0.795, average reward: -0.284, average loss: 1.428, average b_loss: 0.133 success rate: 0.304, fail rate: 0.553, tie rate: 0.142, average step: 0.693, blackjack rate: 0.090
+[4000] epsilon: 0.749, average reward: -0.285, average loss: 1.522, average b_loss: 0.131 success rate: 0.305, fail rate: 0.554, tie rate: 0.141, average step: 0.702, blackjack rate: 0.091
+[5000] epsilon: 0.706, average reward: -0.248, average loss: 1.396, average b_loss: 0.131 success rate: 0.307, fail rate: 0.549, tie rate: 0.144, average step: 0.716, blackjack rate: 0.090
+Experiments/player_m50/CKPT/checkpoint-5000 is not in all_model_checkpoint_paths. Manually adding it.
+[6000] epsilon: 0.666, average reward: -0.220, average loss: 1.367, average b_loss: 0.130 success rate: 0.311, fail rate: 0.545, tie rate: 0.144, average step: 0.727, blackjack rate: 0.090
+[7000] epsilon: 0.628, average reward: -0.213, average loss: 1.444, average b_loss: 0.129 success rate: 0.314, fail rate: 0.540, tie rate: 0.147, average step: 0.732, blackjack rate: 0.090
+[8000] epsilon: 0.592, average reward: -0.259, average loss: 1.367, average b_loss: 0.129 success rate: 0.314, fail rate: 0.538, tie rate: 0.147, average step: 0.741, blackjack rate: 0.089
+[9000] epsilon: 0.558, average reward: -0.168, average loss: 1.338, average b_loss: 0.128 success rate: 0.318, fail rate: 0.535, tie rate: 0.147, average step: 0.749, blackjack rate: 0.091
+[10000] epsilon: 0.526, average reward: -0.148, average loss: 1.449, average b_loss: 0.127 success rate: 0.322, fail rate: 0.531, tie rate: 0.147, average step: 0.752, blackjack rate: 0.092
+Experiments/player_m50/CKPT/checkpoint-10000 is not in all_model_checkpoint_paths. Manually adding it.
+[11000] epsilon: 0.496, average reward: -0.117, average loss: 1.365, average b_loss: 0.127 success rate: 0.327, fail rate: 0.524, tie rate: 0.149, average step: 0.759, blackjack rate: 0.093
+[12000] epsilon: 0.468, average reward: -0.164, average loss: 1.298, average b_loss: 0.126 success rate: 0.333, fail rate: 0.517, tie rate: 0.151, average step: 0.761, blackjack rate: 0.094
+[13000] epsilon: 0.441, average reward: -0.175, average loss: 1.296, average b_loss: 0.126 success rate: 0.338, fail rate: 0.513, tie rate: 0.149, average step: 0.765, blackjack rate: 0.095
+[14000] epsilon: 0.416, average reward: -0.133, average loss: 1.316, average b_loss: 0.126 success rate: 0.344, fail rate: 0.505, tie rate: 0.152, average step: 0.767, blackjack rate: 0.095
+[15000] epsilon: 0.392, average reward: -0.113, average loss: 1.325, average b_loss: 0.125 success rate: 0.350, fail rate: 0.501, tie rate: 0.149, average step: 0.766, blackjack rate: 0.098
+Experiments/player_m50/CKPT/checkpoint-15000 is not in all_model_checkpoint_paths. Manually adding it.
+[16000] epsilon: 0.370, average reward: -0.191, average loss: 1.417, average b_loss: 0.125 success rate: 0.351, fail rate: 0.500, tie rate: 0.149, average step: 0.771, blackjack rate: 0.100
+[17000] epsilon: 0.349, average reward: -0.157, average loss: 1.287, average b_loss: 0.124 success rate: 0.354, fail rate: 0.498, tie rate: 0.147, average step: 0.774, blackjack rate: 0.102
+[18000] epsilon: 0.329, average reward: -0.122, average loss: 1.351, average b_loss: 0.124 success rate: 0.358, fail rate: 0.493, tie rate: 0.149, average step: 0.781, blackjack rate: 0.105
+[19000] epsilon: 0.311, average reward: -0.111, average loss: 1.369, average b_loss: 0.123 success rate: 0.361, fail rate: 0.489, tie rate: 0.150, average step: 0.782, blackjack rate: 0.104
+[20000] epsilon: 0.293, average reward: -0.134, average loss: 1.382, average b_loss: 0.123 success rate: 0.362, fail rate: 0.488, tie rate: 0.150, average step: 0.779, blackjack rate: 0.103
+Experiments/player_m50/CKPT/checkpoint-20000 is not in all_model_checkpoint_paths. Manually adding it.
+[21000] epsilon: 0.277, average reward: -0.147, average loss: 1.377, average b_loss: 0.123 success rate: 0.363, fail rate: 0.488, tie rate: 0.149, average step: 0.777, blackjack rate: 0.102
+[22000] epsilon: 0.261, average reward: -0.069, average loss: 1.339, average b_loss: 0.122 success rate: 0.365, fail rate: 0.483, tie rate: 0.151, average step: 0.783, blackjack rate: 0.103
+[23000] epsilon: 0.246, average reward: -0.093, average loss: 1.351, average b_loss: 0.121 success rate: 0.369, fail rate: 0.479, tie rate: 0.152, average step: 0.786, blackjack rate: 0.104
+[24000] epsilon: 0.233, average reward: -0.190, average loss: 1.338, average b_loss: 0.121 success rate: 0.365, fail rate: 0.482, tie rate: 0.153, average step: 0.796, blackjack rate: 0.105
+[25000] epsilon: 0.220, average reward: -0.092, average loss: 1.270, average b_loss: 0.120 success rate: 0.364, fail rate: 0.479, tie rate: 0.157, average step: 0.802, blackjack rate: 0.107
+Experiments/player_m50/CKPT/checkpoint-25000 is not in all_model_checkpoint_paths. Manually adding it.
+[26000] epsilon: 0.208, average reward: -0.085, average loss: 1.294, average b_loss: 0.120 success rate: 0.368, fail rate: 0.473, tie rate: 0.159, average step: 0.802, blackjack rate: 0.107
+[27000] epsilon: 0.196, average reward: -0.044, average loss: 1.288, average b_loss: 0.119 success rate: 0.370, fail rate: 0.469, tie rate: 0.160, average step: 0.801, blackjack rate: 0.108
+[28000] epsilon: 0.185, average reward: -0.069, average loss: 1.313, average b_loss: 0.119 success rate: 0.375, fail rate: 0.467, tie rate: 0.159, average step: 0.800, blackjack rate: 0.107
+[29000] epsilon: 0.175, average reward: -0.082, average loss: 1.340, average b_loss: 0.118 success rate: 0.373, fail rate: 0.465, tie rate: 0.162, average step: 0.803, blackjack rate: 0.109
+[30000] epsilon: 0.165, average reward: -0.076, average loss: 1.381, average b_loss: 0.118 success rate: 0.374, fail rate: 0.463, tie rate: 0.164, average step: 0.808, blackjack rate: 0.112
+Experiments/player_m50/CKPT/checkpoint-30000 is not in all_model_checkpoint_paths. Manually adding it.
+[31000] epsilon: 0.156, average reward: -0.092, average loss: 1.263, average b_loss: 0.118 success rate: 0.374, fail rate: 0.458, tie rate: 0.168, average step: 0.811, blackjack rate: 0.114
+[32000] epsilon: 0.148, average reward: -0.101, average loss: 1.307, average b_loss: 0.117 success rate: 0.372, fail rate: 0.459, tie rate: 0.169, average step: 0.810, blackjack rate: 0.113
+[33000] epsilon: 0.140, average reward: -0.064, average loss: 1.240, average b_loss: 0.117 success rate: 0.374, fail rate: 0.459, tie rate: 0.167, average step: 0.807, blackjack rate: 0.113
+[34000] epsilon: 0.132, average reward: -0.090, average loss: 1.396, average b_loss: 0.116 success rate: 0.381, fail rate: 0.455, tie rate: 0.164, average step: 0.806, blackjack rate: 0.112
+[35000] epsilon: 0.125, average reward: -0.050, average loss: 1.204, average b_loss: 0.116 success rate: 0.383, fail rate: 0.453, tie rate: 0.164, average step: 0.808, blackjack rate: 0.113
+Experiments/player_m50/CKPT/checkpoint-35000 is not in all_model_checkpoint_paths. Manually adding it.
+[36000] epsilon: 0.118, average reward: -0.068, average loss: 1.299, average b_loss: 0.116 success rate: 0.383, fail rate: 0.452, tie rate: 0.166, average step: 0.813, blackjack rate: 0.114
+[37000] epsilon: 0.112, average reward: -0.067, average loss: 1.261, average b_loss: 0.115 success rate: 0.384, fail rate: 0.452, tie rate: 0.164, average step: 0.814, blackjack rate: 0.114
+[38000] epsilon: 0.106, average reward: -0.041, average loss: 1.259, average b_loss: 0.115 success rate: 0.386, fail rate: 0.451, tie rate: 0.163, average step: 0.811, blackjack rate: 0.113
+[39000] epsilon: 0.101, average reward: -0.006, average loss: 1.302, average b_loss: 0.115 success rate: 0.390, fail rate: 0.448, tie rate: 0.163, average step: 0.813, blackjack rate: 0.114
+[40000] epsilon: 0.095, average reward: -0.069, average loss: 1.242, average b_loss: 0.115 success rate: 0.389, fail rate: 0.445, tie rate: 0.166, average step: 0.815, blackjack rate: 0.113
+Experiments/player_m50/CKPT/checkpoint-40000 is not in all_model_checkpoint_paths. Manually adding it.
+[41000] epsilon: 0.090, average reward: -0.038, average loss: 1.305, average b_loss: 0.114 success rate: 0.392, fail rate: 0.444, tie rate: 0.164, average step: 0.815, blackjack rate: 0.114
+[42000] epsilon: 0.086, average reward: -0.022, average loss: 1.235, average b_loss: 0.114 success rate: 0.397, fail rate: 0.441, tie rate: 0.162, average step: 0.816, blackjack rate: 0.115
+[43000] epsilon: 0.081, average reward: -0.059, average loss: 1.279, average b_loss: 0.114 success rate: 0.393, fail rate: 0.440, tie rate: 0.167, average step: 0.816, blackjack rate: 0.117
+[44000] epsilon: 0.077, average reward: -0.080, average loss: 1.279, average b_loss: 0.113 success rate: 0.395, fail rate: 0.441, tie rate: 0.164, average step: 0.811, blackjack rate: 0.117
+[45000] epsilon: 0.073, average reward: -0.113, average loss: 1.315, average b_loss: 0.113 success rate: 0.395, fail rate: 0.443, tie rate: 0.163, average step: 0.811, blackjack rate: 0.114
+Experiments/player_m50/CKPT/checkpoint-45000 is not in all_model_checkpoint_paths. Manually adding it.
+[46000] epsilon: 0.069, average reward: -0.046, average loss: 1.214, average b_loss: 0.113 success rate: 0.398, fail rate: 0.443, tie rate: 0.159, average step: 0.810, blackjack rate: 0.112
+[47000] epsilon: 0.066, average reward: -0.071, average loss: 1.203, average b_loss: 0.113 success rate: 0.396, fail rate: 0.441, tie rate: 0.163, average step: 0.811, blackjack rate: 0.112
+[48000] epsilon: 0.063, average reward: -0.023, average loss: 1.270, average b_loss: 0.112 success rate: 0.393, fail rate: 0.439, tie rate: 0.168, average step: 0.815, blackjack rate: 0.116
+[49000] epsilon: 0.060, average reward: -0.055, average loss: 1.349, average b_loss: 0.112 success rate: 0.392, fail rate: 0.442, tie rate: 0.166, average step: 0.817, blackjack rate: 0.114
+[50000] epsilon: 0.950, average reward: -0.049, average loss: 1.187, average b_loss: 0.112 success rate: 0.396, fail rate: 0.444, tie rate: 0.160, average step: 0.817, blackjack rate: 0.113
+Experiments/player_m50/CKPT/checkpoint-50000 is not in all_model_checkpoint_paths. Manually adding it.
+[51000] epsilon: 0.861, average reward: -0.249, average loss: 1.326, average b_loss: 0.112 success rate: 0.389, fail rate: 0.454, tie rate: 0.157, average step: 0.814, blackjack rate: 0.111
+[52000] epsilon: 0.780, average reward: -0.299, average loss: 1.250, average b_loss: 0.111 success rate: 0.377, fail rate: 0.468, tie rate: 0.155, average step: 0.812, blackjack rate: 0.109
+[53000] epsilon: 0.706, average reward: -0.250, average loss: 1.271, average b_loss: 0.111 success rate: 0.371, fail rate: 0.479, tie rate: 0.150, average step: 0.812, blackjack rate: 0.105
+[54000] epsilon: 0.640, average reward: -0.224, average loss: 1.312, average b_loss: 0.111 success rate: 0.364, fail rate: 0.484, tie rate: 0.152, average step: 0.811, blackjack rate: 0.103
+[55000] epsilon: 0.580, average reward: -0.221, average loss: 1.357, average b_loss: 0.111 success rate: 0.359, fail rate: 0.491, tie rate: 0.150, average step: 0.809, blackjack rate: 0.101
+Experiments/player_m50/CKPT/checkpoint-55000 is not in all_model_checkpoint_paths. Manually adding it.
+[56000] epsilon: 0.526, average reward: -0.164, average loss: 1.281, average b_loss: 0.110 success rate: 0.353, fail rate: 0.497, tie rate: 0.149, average step: 0.808, blackjack rate: 0.100
+[57000] epsilon: 0.477, average reward: -0.145, average loss: 1.235, average b_loss: 0.110 success rate: 0.352, fail rate: 0.503, tie rate: 0.145, average step: 0.807, blackjack rate: 0.098
+[58000] epsilon: 0.432, average reward: -0.166, average loss: 1.372, average b_loss: 0.110 success rate: 0.348, fail rate: 0.513, tie rate: 0.139, average step: 0.807, blackjack rate: 0.097
+[59000] epsilon: 0.392, average reward: -0.162, average loss: 1.305, average b_loss: 0.110 success rate: 0.343, fail rate: 0.516, tie rate: 0.141, average step: 0.807, blackjack rate: 0.096
+[60000] epsilon: 0.356, average reward: -0.210, average loss: 1.385, average b_loss: 0.109 success rate: 0.335, fail rate: 0.523, tie rate: 0.142, average step: 0.808, blackjack rate: 0.095
+Experiments/player_m50/CKPT/checkpoint-60000 is not in all_model_checkpoint_paths. Manually adding it.
+[61000] epsilon: 0.323, average reward: -0.108, average loss: 1.397, average b_loss: 0.109 success rate: 0.340, fail rate: 0.516, tie rate: 0.144, average step: 0.809, blackjack rate: 0.095
+[62000] epsilon: 0.293, average reward: -0.165, average loss: 1.375, average b_loss: 0.109 success rate: 0.345, fail rate: 0.509, tie rate: 0.146, average step: 0.808, blackjack rate: 0.097
+[63000] epsilon: 0.266, average reward: -0.107, average loss: 1.352, average b_loss: 0.109 success rate: 0.353, fail rate: 0.501, tie rate: 0.146, average step: 0.808, blackjack rate: 0.098
+[64000] epsilon: 0.242, average reward: -0.081, average loss: 1.326, average b_loss: 0.109 success rate: 0.357, fail rate: 0.495, tie rate: 0.148, average step: 0.808, blackjack rate: 0.101
+[65000] epsilon: 0.220, average reward: -0.133, average loss: 1.432, average b_loss: 0.108 success rate: 0.361, fail rate: 0.490, tie rate: 0.149, average step: 0.808, blackjack rate: 0.104
+Experiments/player_m50/CKPT/checkpoint-65000 is not in all_model_checkpoint_paths. Manually adding it.
+[66000] epsilon: 0.200, average reward: -0.093, average loss: 1.219, average b_loss: 0.108 success rate: 0.363, fail rate: 0.484, tie rate: 0.153, average step: 0.809, blackjack rate: 0.106
+[67000] epsilon: 0.182, average reward: -0.172, average loss: 1.313, average b_loss: 0.108 success rate: 0.360, fail rate: 0.483, tie rate: 0.156, average step: 0.812, blackjack rate: 0.106
+[68000] epsilon: 0.165, average reward: -0.129, average loss: 1.333, average b_loss: 0.108 success rate: 0.362, fail rate: 0.478, tie rate: 0.160, average step: 0.813, blackjack rate: 0.105
+[69000] epsilon: 0.151, average reward: -0.042, average loss: 1.324, average b_loss: 0.107 success rate: 0.368, fail rate: 0.475, tie rate: 0.157, average step: 0.815, blackjack rate: 0.107
+[70000] epsilon: 0.137, average reward: -0.140, average loss: 1.302, average b_loss: 0.107 success rate: 0.371, fail rate: 0.471, tie rate: 0.158, average step: 0.814, blackjack rate: 0.107
+Experiments/player_m50/CKPT/checkpoint-70000 is not in all_model_checkpoint_paths. Manually adding it.
+[71000] epsilon: 0.125, average reward: -0.062, average loss: 1.187, average b_loss: 0.107 success rate: 0.372, fail rate: 0.468, tie rate: 0.160, average step: 0.815, blackjack rate: 0.109
+[72000] epsilon: 0.114, average reward: -0.115, average loss: 1.302, average b_loss: 0.107 success rate: 0.374, fail rate: 0.465, tie rate: 0.161, average step: 0.816, blackjack rate: 0.110
+[73000] epsilon: 0.104, average reward: -0.065, average loss: 1.322, average b_loss: 0.107 success rate: 0.375, fail rate: 0.462, tie rate: 0.163, average step: 0.816, blackjack rate: 0.112
+[74000] epsilon: 0.095, average reward: -0.102, average loss: 1.203, average b_loss: 0.106 success rate: 0.376, fail rate: 0.462, tie rate: 0.162, average step: 0.815, blackjack rate: 0.110
+[75000] epsilon: 0.087, average reward: -0.008, average loss: 1.270, average b_loss: 0.106 success rate: 0.377, fail rate: 0.456, tie rate: 0.167, average step: 0.817, blackjack rate: 0.112
+Experiments/player_m50/CKPT/checkpoint-75000 is not in all_model_checkpoint_paths. Manually adding it.
+[76000] epsilon: 0.080, average reward: -0.123, average loss: 1.329, average b_loss: 0.106 success rate: 0.375, fail rate: 0.458, tie rate: 0.167, average step: 0.818, blackjack rate: 0.111
+[77000] epsilon: 0.073, average reward: -0.189, average loss: 1.248, average b_loss: 0.106 success rate: 0.378, fail rate: 0.460, tie rate: 0.161, average step: 0.815, blackjack rate: 0.110
+[78000] epsilon: 0.067, average reward: -0.069, average loss: 1.353, average b_loss: 0.105 success rate: 0.381, fail rate: 0.459, tie rate: 0.160, average step: 0.817, blackjack rate: 0.110
+[79000] epsilon: 0.062, average reward: -0.016, average loss: 1.272, average b_loss: 0.105 success rate: 0.382, fail rate: 0.457, tie rate: 0.161, average step: 0.816, blackjack rate: 0.110
+[80000] epsilon: 0.057, average reward: -0.113, average loss: 1.158, average b_loss: 0.105 success rate: 0.385, fail rate: 0.457, tie rate: 0.157, average step: 0.814, blackjack rate: 0.110
+Experiments/player_m50/CKPT/checkpoint-80000 is not in all_model_checkpoint_paths. Manually adding it.
+[81000] epsilon: 0.052, average reward: -0.126, average loss: 1.326, average b_loss: 0.105 success rate: 0.385, fail rate: 0.461, tie rate: 0.154, average step: 0.812, blackjack rate: 0.109
+[82000] epsilon: 0.048, average reward: 0.001, average loss: 1.331, average b_loss: 0.104 success rate: 0.387, fail rate: 0.458, tie rate: 0.155, average step: 0.814, blackjack rate: 0.111
+[83000] epsilon: 0.045, average reward: -0.099, average loss: 1.279, average b_loss: 0.104 success rate: 0.383, fail rate: 0.459, tie rate: 0.158, average step: 0.819, blackjack rate: 0.113
+[84000] epsilon: 0.041, average reward: -0.026, average loss: 1.328, average b_loss: 0.104 success rate: 0.384, fail rate: 0.455, tie rate: 0.161, average step: 0.820, blackjack rate: 0.116
+[85000] epsilon: 0.038, average reward: -0.126, average loss: 1.270, average b_loss: 0.104 success rate: 0.382, fail rate: 0.461, tie rate: 0.158, average step: 0.820, blackjack rate: 0.113
+Experiments/player_m50/CKPT/checkpoint-85000 is not in all_model_checkpoint_paths. Manually adding it.
+[86000] epsilon: 0.036, average reward: -0.091, average loss: 1.329, average b_loss: 0.103 success rate: 0.385, fail rate: 0.459, tie rate: 0.156, average step: 0.820, blackjack rate: 0.112
+[87000] epsilon: 0.033, average reward: -0.075, average loss: 1.222, average b_loss: 0.103 success rate: 0.389, fail rate: 0.453, tie rate: 0.158, average step: 0.819, blackjack rate: 0.113
+[88000] epsilon: 0.031, average reward: -0.090, average loss: 1.267, average b_loss: 0.103 success rate: 0.386, fail rate: 0.454, tie rate: 0.160, average step: 0.821, blackjack rate: 0.115
+[89000] epsilon: 0.029, average reward: 0.007, average loss: 1.371, average b_loss: 0.103 success rate: 0.385, fail rate: 0.453, tie rate: 0.163, average step: 0.821, blackjack rate: 0.115
+[90000] epsilon: 0.027, average reward: -0.127, average loss: 1.190, average b_loss: 0.103 success rate: 0.385, fail rate: 0.455, tie rate: 0.160, average step: 0.818, blackjack rate: 0.114
+Experiments/player_m50/CKPT/checkpoint-90000 is not in all_model_checkpoint_paths. Manually adding it.
+[91000] epsilon: 0.026, average reward: -0.107, average loss: 1.205, average b_loss: 0.102 success rate: 0.387, fail rate: 0.455, tie rate: 0.158, average step: 0.815, blackjack rate: 0.113
+[92000] epsilon: 0.024, average reward: -0.073, average loss: 1.290, average b_loss: 0.102 success rate: 0.387, fail rate: 0.459, tie rate: 0.154, average step: 0.815, blackjack rate: 0.110
+[93000] epsilon: 0.023, average reward: -0.085, average loss: 1.093, average b_loss: 0.102 success rate: 0.392, fail rate: 0.458, tie rate: 0.150, average step: 0.813, blackjack rate: 0.106
+[94000] epsilon: 0.022, average reward: -0.081, average loss: 1.187, average b_loss: 0.102 success rate: 0.389, fail rate: 0.460, tie rate: 0.150, average step: 0.816, blackjack rate: 0.105
+[95000] epsilon: 0.020, average reward: -0.124, average loss: 1.162, average b_loss: 0.101 success rate: 0.386, fail rate: 0.461, tie rate: 0.153, average step: 0.820, blackjack rate: 0.109
+Experiments/player_m50/CKPT/checkpoint-95000 is not in all_model_checkpoint_paths. Manually adding it.
+[96000] epsilon: 0.019, average reward: -0.105, average loss: 1.202, average b_loss: 0.101 success rate: 0.384, fail rate: 0.461, tie rate: 0.155, average step: 0.820, blackjack rate: 0.109
+[97000] epsilon: 0.019, average reward: -0.090, average loss: 1.247, average b_loss: 0.101 success rate: 0.384, fail rate: 0.462, tie rate: 0.154, average step: 0.820, blackjack rate: 0.109
+[98000] epsilon: 0.018, average reward: -0.060, average loss: 1.222, average b_loss: 0.101 success rate: 0.387, fail rate: 0.461, tie rate: 0.152, average step: 0.822, blackjack rate: 0.107
+[99000] epsilon: 0.017, average reward: -0.036, average loss: 1.232, average b_loss: 0.100 success rate: 0.385, fail rate: 0.462, tie rate: 0.153, average step: 0.824, blackjack rate: 0.109
+[100000] epsilon: 0.950, average reward: -0.046, average loss: 1.239, average b_loss: 0.100 success rate: 0.385, fail rate: 0.458, tie rate: 0.157, average step: 0.825, blackjack rate: 0.112
+Experiments/player_m50/CKPT/checkpoint-100000 is not in all_model_checkpoint_paths. Manually adding it.
+Experiments/player_m50/CKPT/checkpoint-100000 is not in all_model_checkpoint_paths. Manually adding it.
+Restoring parameters from Experiments/player_m50/CKPT/checkpoint-100000
